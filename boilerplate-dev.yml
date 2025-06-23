@@ -7,4 +7,4 @@ logging:
   level:
     root: INFO
 study:
-  presenter: sam
+  presenter: kyle
