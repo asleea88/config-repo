@@ -1,4 +1,5 @@
 name: ${USER}
+name2: sam
 abs:
   test-name: hahah
-  bbbb: ${name}
+  bbbb: ${name2}
