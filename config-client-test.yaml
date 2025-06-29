@@ -1,1 +1,4 @@
 name: ${USER}
+abs:
+  test-name: hahah
+  bbbb: ${name}
